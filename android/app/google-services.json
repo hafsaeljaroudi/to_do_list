@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553020657135",
+    "project_id": "im-doing-mybest",
+    "storage_bucket": "im-doing-mybest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553020657135:android:178c65ba572ff370d03a1a",
+        "android_client_info": {
+          "package_name": "com.makingstuffup.mypersonalnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553020657135-5i2rrl5isf3cs4ot1p5q3eo0nbe3uldk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ZMWrDMcyIfhCENcybiYNtJQ3SzsUIKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553020657135-5i2rrl5isf3cs4ot1p5q3eo0nbe3uldk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
